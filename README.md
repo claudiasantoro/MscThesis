@@ -26,8 +26,8 @@ Sentiment_Analysis_BM.xlsx	Benchmark sentiment scores for comparison
 MergeDataset.xlsx	Final dataset combining multiple sources (this comes from the PHEME dataset)
 
 
-🚀 How to Run
-Clone the repo
+🚀 How to Run: 
+Clone the repo 
 Install dependencies (e.g. nltk, sklearn, pandas, matplotlib)
 Open the notebooks in Jupyter
 Run SentimentAnalysisGit.ipynb for sentiment analysis
